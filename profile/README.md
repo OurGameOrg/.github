@@ -1,8 +1,8 @@
 ### Welcome to OurGameOrg!
 
 - [Home](https://ourgameorg.com)
-- [GPT-3D](https://gpt3d.ourgameorg.com)
-- [n00d](https://n00d.ourgameorg.com)
+- [GPT-3D](https://github.com/gpt-3d)
+- [n00d](https://github.com/n00dbeaverstudios)
 
 
 ##### Other GitHub repos
