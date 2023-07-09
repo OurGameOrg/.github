@@ -7,5 +7,4 @@
 
 ##### Other GitHub repos
 - [n00dbeaverstudios](https://github.com/n00dbeaverstudios)
-- [debellica](https://github.com/user/debellica)
 - [gpt-3d](https://github.com/gpt-3d)
